@@ -1,7 +1,4 @@
 
-Criar uma pasta com o nome "text_files"
-Colocar todos os arquivos .txt nela
-
 Para rodar o teste local precisa descomentar o que está comentado no arquivo .h
 # define read(fd, buffer, bytes) mock_read(fd, buffer, bytes)
 size_t	mock_read(int fd, void *buf, size_t count);
